@@ -20,8 +20,10 @@
 
 1- Clonez le dépôt :
 ```bash
-# lien du depot
-cd #nom de mon depot
+git clone git@github.com:Ghislano26/blog_api.git        (si connecte en SSH)
+git clone https://github.com/Ghislano26/blog_api.git    (si connecte en HTTP)
+
+cd blog_api
 ```
 
 2- Installer les dependances :
